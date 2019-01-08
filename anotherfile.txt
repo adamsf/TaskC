@@ -1,0 +1,2 @@
+according.txt  anotherfile.txt	laws.txt	 note.txt   testText.txt
+all.txt        known.txt	manipulation.hs  README.md  to.txt
